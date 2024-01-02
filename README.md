@@ -4,6 +4,12 @@
 ## Pre-Train made by Group 1
 </div>
 
+![yolos-pretrain](yolos-pretrain.png)
 
+## Result
+| Model | Dataset | Epoch | Eval Size | AP |
+| :------------: | :------------: | :------------: | :------------: | :------------: |
+| YOLOS-Ti | COCO | 300 | 512 | 28.7
+| YOLOS-Ti Pre-Train | Dollar Bill Detection | 50 | 416 | 61.6
 
 > [**You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection**](https://arxiv.org/abs/2106.00666)
