@@ -5,8 +5,8 @@
 </div>
 
 ![yolos-pretrain](yolos-pretrain.png)
-
-## Result
+## YOLOS
+### Result
 | Model | Dataset | Epoch | Eval Size | AP |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
 | YOLOS-Ti | COCO | 300 | 512 | 28.7
